@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864621444936",
+    "project_id": "hoondai-messenger",
+    "storage_bucket": "hoondai-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864621444936:android:acab1b3c5c8538910dfd7d",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864621444936-4h7c3s26ssd3sitk01mnsnv84uls1ges.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeS6zci_3_JawhZDjtCybTiKSoZP6u-rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864621444936-4h7c3s26ssd3sitk01mnsnv84uls1ges.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
