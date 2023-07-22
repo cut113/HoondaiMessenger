@@ -132,7 +132,8 @@ public class registration extends AppCompatActivity {
                                      });
                                  }else {
                                      String status = "I'm alive yoooohh!!!";
-                                     imageuri = "https://firebasestorage.googleapis.com/v0/b/hoondai-messenger.appspot.com/o/60111.jpg?alt=media&token=820fdb8f-ef27-4fbd-9c83-7d2248e92410";
+                                     imageuri = "https://firebasestorage.googleapis.com/v0/b/hoondai-messenger.appspot.com/o/6596121.png?alt=media&token=7f8cd21f-aa70-46c3-bdea-06de75504190" +
+                                             "";
                                      Users users = new Users(id,namee,emaill,Password,imageuri,status);
                                      reference.setValue(users).addOnCompleteListener(new OnCompleteListener<Void>() {
                                          @Override
